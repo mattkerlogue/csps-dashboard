@@ -1,0 +1,178 @@
+﻿id,group,label,order
+g_aoaa,grade,AO/AA,1
+g_eo,grade,EO,2
+g_seoheo,grade,SEO/HEO,3
+g_g6g7,grade,G6/G7,4
+g_scs,grade,SCS,5
+c_england,country,England,1
+c_scotland,country,Scotland,2
+c_wales,country,Wales,3
+c_nire,country,Northern Ireland,4
+c_overseas,country,Overseas,5
+er_em,eng_reg,East Midlands,1
+er_ee,eng_reg,East of England,2
+er_lo,eng_reg,London,3
+er_ne,eng_reg,North East England,4
+er_nw,eng_reg,North West England,5
+er_se,eng_reg,South East England,6
+er_sw,eng_reg,South West England,7
+er_wm,eng_reg,West Midlands,8
+er_yh,eng_reg,Yorkshire and the Humber,9
+losj_lt1y,losj,Less than 1 year,1
+losj_1_3y,losj,1 year but less than 3 years,2
+losj_3_5y,losj,3 years but less than 5 years,3
+losj_5_10y,losj,5 years but less than 310years,4
+losj_10yp,losj,10 year or more,5
+loso_lt1y,loso,Less than 1 year,1
+loso_1_3y,loso,1 year but less than 3 years,2
+loso_3_5y,loso,3 years but less than 5 years,3
+loso_5_10y,loso,5 years but less than 310years,4
+loso_10yp,loso,10 year or more,5
+losc_lt1y,losc,Less than 1 year,1
+losc_1_3y,losc,1 year but less than 3 years,2
+losc_3_5y,losc,3 years but less than 5 years,3
+losc_5_10y,losc,5 years but less than 310years,4
+losc_10yp,losc,10 year or more,5
+m_nonm,manager,Non-manager,1
+m_man,manager,Manager,2
+wp_ft,pattern,Full-time,1
+wp_pt,pattern,Part-time,2
+wp_js,pattern,Job-share,3
+es_perm,status,Permanent contract,1
+es_fixed,status,Fixed term contract,2
+es_loan,status,Loan from within the Civil Service,3
+es_temp,status,Temporary/agency worker,4
+es_contract,status,Contractor/freelancer,5
+es_secondee,status,Secondee from outside the Civil Service,6
+oh_ops,occ1,Operational role,1
+oh_corp,occ1,Corporate role,2
+oh_pol,occ1,Policy role,3
+oh_spec,occ1,Specialist role,4
+oh_oth,occ1,Other role,5
+d1_not,dev1,Not on a development scheme,1
+d1_fs,dev1,On a Civil Service Fast Stream scheme,2
+d1_oth,dev1,On another development scheme,3
+sx_male,sex,Man,1
+sx_female,sex,Woman,2
+sx_other,sex,I identify in another way,3
+a_1634,age,Aged 16-34,1
+a_3544,age,Aged 35-44,2
+a_4554,age,Aged 45-54,3
+a_55p,age,Aged 55 and over,4
+eh_white,eth1,White,1
+eh_bame,eth1,Ethnic minority,2
+ed_white,eth2,White,1
+ed_mixed,eth2,Mixed,2
+ed_asian,eth2,Asian,3
+ed_black,eth2,Black,4
+ed_oth,eth2,Other,5
+hs_none,health1,No long-term limiting illness,1
+hs_llti,health2,Long-term limiting illness,2
+cr_notc,caring,Not a carer,1
+cr_carer,caring,Carer for others,2
+cc_nocc,childcare,No childcare responsibilities,1
+cc_hascc,childcare,Has childcare responsibilities,2
+si_het,sexid1,Heterosexual/straight,1
+si_lgb,sexid1,"Gay, lesbian or bisexual",2
+si_oth,sexid1,Other,3
+si_lgbo,sexid1,"Lesbian, gay, bisexual or other (LGBO)",
+rel_nor,religion,No religion,1
+rel_christian,religion,Christian,2
+rel_buddhist,religion,Buddhist,3
+rel_hindu,religion,Hindu,4
+rel_jewish,religion,Jewish,5
+rel_muslim,religion,Muslim,6
+rel_sikh,religion,Sikh,7
+rel_oth,religion,Other religion,8
+od_op_admin,occ2,Operations: Administrative,1
+od_op_voice,occ2,Operations: Call centre,2
+od_op_casew,occ2,Operations: Casework,3
+od_op_dmb,occ2,Operations: Debt Management and Banking,4
+od_op_f2f,occ2,Operations: Face to Face,5
+od_op_mgmt,occ2,Operations: General management,6
+od_op_inspct,occ2,Operations: Inspection,7
+od_op_invstg,occ2,Operations: Investigation,8
+od_op_lgstcs,occ2,Operations: Logistics,9
+od_op_offmgmt,occ2,Operations: Offender management,10
+od_op_process,occ2,Operations: Processing,11
+od_op_tax,occ2,Operations: Tax professional,12
+od_op_trspt,occ2,Operations: Transport,13
+od_op_property,occ2,Operations: Property,14
+od_op_fraud,occ2,Operations: Counter Fraud,15
+od_op_other,occ2,Operations: Other operations,16
+od_cs_commercial,occ2,CS: Commercial,17
+od_cs_estates,occ2,CS: Estates,18
+od_cs_finance,occ2,CS: Finance,19
+od_cs_hr,occ2,CS: Human resources,20
+od_cs_ia,occ2,CS: Internal audit,21
+od_cs_it,occ2,CS: Information technology,22
+od_cs_kim,occ2,CS: Knowledge & information management,23
+od_cs_prvoff,occ2,CS: Private Office,24
+od_cs_ppm,occ2,CS: Programme and project management,25
+od_cs_security,occ2,CS: Security,26
+od_cs_strategy,occ2,CS: Strategy,27
+od_policy,occ2,Policy,28
+od_sp_animal,occ2,Specialist: Animal health,29
+od_sp_crtgph,occ2,Specialist: Cartography,30
+od_sp_comms,occ2,Specialist: Comms,31
+od_sp_econ,occ2,Specialist: Economics,32
+od_sp_eng,occ2,Specialist: Engineering,33
+od_sp_health,occ2,Specialist: Health,34
+od_sp_legal,occ2,Specialist: Legal,35
+od_sp_opres,occ2,Specialist: Operational research,36
+od_sp_science,occ2,Specialist: Scientist,37
+od_sp_socres,occ2,Specialist: Social research,38
+od_sp_stats,occ2,Specialist: Statistics,39
+od_sp_oth,occ2,Specialist: Other,40
+od_oth,occ2,Other role,41
+ei_wbritish,eth3,White: British,1
+ei_wirish,eth3,White: Irish,2
+ei_wgypsy,eth3,White: Gypsy/Irish Traveller,3
+ei_woth,eth3,White: any other white background,4
+ei_mwbc,eth3,Mixed: White and Black Caribbean,5
+ei_mwba,eth3,Mixed: White and Black African,6
+ei_mwas,eth3,Mixed: White and Asian,7
+ei_moth,eth3,Mixed: any other mixed background,8
+ei_aindian,eth3,Asian: Indian,9
+ei_apakistani,eth3,Asain: Pakistani,10
+ai_abangladeshi,eth3,Asian: Bangladeshi,11
+ei_achinese,eth3,Asian: Chinese,12
+ei_aoth,eth3,Asian: any other Asian background,13
+ei_bafrican,eth3,Black: African,14
+ei_bcarib,eth3,Black: Caribbean,15
+ei_both,eth3,Black: any other Black background,16
+ei_oarab,eth3,Other: Arab,17
+ei_ooth,eth3,Other: any other background,18
+hi_noimpact,health2,Illness/condition has no impact on daily activity/work,1
+hi_lowimpact,health2,Illness/condition has a little impact on daily activity/work,2
+hi_highimpact,health2,Illness/condition has a lot of impact on daily activity/work,3
+hd_noimpact,health3,No long-term limiting illness/condition or an illness/condition has no impact on daily activities/work,1
+hd_hasimpact,health3,Long-term limiting illness or condition which has an impact on daily activities/work,2
+si2_het,sexid2,Heteroseuxal/straight,1
+si2_gl,sexid2,Gay or lesbian,2
+si2_bi,sexid2,Bisexual,3
+si2_oth,sexid2,Other,4
+func_analysis,function,Analysis,1
+func_commercial,function,Commercial,2
+func_comms,function,Communications,3
+func_digital,function,Digital,4
+func_finance,function,Finance,5
+func_fedg,function,"Fraud, Error, Debts and Grants",6
+func_hr,function,HR,7
+func_ia,function,Internal Audit,8
+func_legal,function,Legal,9
+func_project,function,Project Delivery,10
+func_property,function,Property,11
+func_security,function,Security,12
+func_none,function,Not in a Function,13
+d2_not,dev2,Not on a development scheme ,1
+d2_cfs,dev2,Currently on Civil Service Fast Stream schemes,2
+d2_cos,dev2,Currently on Other development scheme ,3
+d2_pfs,dev2,Previously on Civil Service Fast Stream,4
+d2_pos,dev2,Previously on Other development scheme,5
+gh_cis,gender1,Cisgender,1
+gh_trans,gender1,Transgender,2
+gd_cisman,gender2,Cisgender man,1
+gd_ciswoman,gender2,Cisgender woman,2
+gd_transman,gender2,Transgender man,3
+gd_transwoman,gender2,Transgender woman,4

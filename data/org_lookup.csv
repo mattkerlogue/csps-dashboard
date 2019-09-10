@@ -1,0 +1,148 @@
+﻿org_id,org_name,org_regex,org_group,org_2009,org_2010,org_2011,org_2012,org_2013,org_2014,org_2015,org_2016,org_2017,org_2018
+0CS_00_CSPS,Civil Service Bencmark (median),(^civil service.*benchmark.*$),0CS,CSPS,CSPS,CSPS,CSPS,CSPS,CSPS,CSPS,CSPS,CSPS,CSPS
+AGD_01_AGO,Attorney General's Office,^attorney.*$,AGD,AGO,AGO,AGO,AGO,AGO,AGO,AGO,AGO,AGO,AGO
+AGD_02_CPS,Crown Prosecution Service,^crown prosecution service$,AGD,CPS,CPS,CPS,CPS,CPS,CPS,CPS,CPS,CPS,CPS
+AGD_03_GLD,Government Legal Department,(^government legal.*$)|(^tsol$),AGD,TSOL,TSOL,TSOL,TSOL,TSOL,TSOL,GLD,GLD,GLD,GLD
+AGD_04_SFO,Serious Fraud Office,^serious.*$,AGD,SFO,SFO,SFO,SFO,SFO,SFO,SFO,SFO,SFO,SFO
+BUS_01_BEIS,"Department for Business, Energy & Industrial Strategy","^.*business, energy.*$",BUS,.,.,.,.,.,.,.,BEIS,BEIS,BEIS
+BUS_02_BIS,"Department for Business, Innovation & Skills","^.*business, innovation.*$",BUS,BIS,BIS,BIS,BIS,BIS,BIS,BIS,.,.,.
+BUS_03_DECC,Department of Energy and Climate Change,^.*energy.*climate.*$,BUS,DECC,DECC,DECC,DECC,DECC,DECC,DECC,.,.,.
+BUS_04_ACAS,Acas,^acas$,BUS,ACAS,ACAS,ACAS,ACAS,ACAS,ACAS,ACAS,ACAS,ACAS,ACAS
+BUS_05_COM,Companies House ,^companies.*$,BUS,CH,CH,CH,CH,CH,CH,CH,CH,CH,CH
+BUS_06_CMA,Competition and Markets Authority,^competition.*$,BUS,.,.,.,.,.,CMA,CMA,CMA,CMA,CMA
+BUS_07_REG,HM Land Registry,^.*registry.*$,BUS,LR,LR,LR,LR,LR,LR,LR,LR,LR,HMLR
+BUS_08_INS,The Insolvency Service,^.*insolvency.*$,BUS,INSS,INSS,INSS,INSS,INSS,INSS,INSS,INSS,INSS,INSS
+BUS_09_IPO,Intellectual Property Office,^.*intellectual.*$,BUS,IPO,IPO,IPO,IPO,IPO,IPO,IPO,IPO,IPO,IPO
+BUS_10_MET,Met Office,^.*met.*$,BUS,.,MET,MET,MET,MET,MET,MET,MET,MET,MET
+BUS_11_NMO,National Measurement and Regulation Office,^.*measurement.*$,BUS,NMO,NMO,NMO,NMO,NMO,NMO,NMO,.,.,.
+BUS_12_OFT,Office of Fair Trading,^.*trading.*$,BUS,OFT,OFT,OFT,OFT,OFT,.,.,.,.,.
+BUS_13_ORDS,Ordnance Survey,^ordnance.*$,BUS,OS,OS,OS,OS,OS,OS,.,.,.,.
+BUS_14_SFA,Skills Funding Agency,^skills.*$,BUS,.,.,SFA,SFA,SFA,SFA,SFA,.,.,.
+CAB_01_CAB,Cabinet Office,^cabinet.*$,CAB,CO,CO,CO,CO,CO,CO,CO,CO,CO,CO
+CAB_02_COI,Central Office of Information,^.*information.*$,CAB,COI,COI,.,.,.,.,.,.,.,.
+CAB_03_COM,Crown Commercial Service,(^buying.*$)|(^.*procurement.*$)|(^.*commercial.*$),CAB,BS,BS,GPS,GPS,GPS,CCS,CCS,CCS,CCS,CCS
+CAB_04_CSHR,Civil Service HR,^.*hr.*$,CAB,.,.,.,.,.,.,.,CSHR,CSHR,CSHR
+CAB_06_GPA,Government Property Agency,^government.*property.*$,CAB,.,.,.,.,.,.,.,.,.,GPA
+CAB_07_NSG,National School of Government,^national school.*$,CAB,NSG,NSG,.,.,.,.,.,.,.,.
+CAB_08_OGC,Office of Government Commerce,^.*commerce*$,CAB,OGC,OGC,.,.,.,.,.,.,.,.
+CAB_08_XEU,Department for Exiting the European Union,^.*exiting.*$,CAB,.,.,.,.,.,.,.,DEEU,DEXEU,DEXEU
+CAB_05_GEO,Government Equalities Office,^.*equalities.*$,CAB,GEO,GEO,.,.,.,.,.,.,.,GEO
+TER_02_SO,Scotland Office and Office of the Advocate General,^scotland office.*general$,TER,SO,.,.,.,.,.,.,.,.,.
+TER_01_TER,"Scotland, Wales and Northern Ireland Offices",^scotland office.*northern.*$,TER,.,.,SWNIO,SWNIO,SWNIO,SWNIO,SWNIO,SWNIO,SWNIO,SWNIO
+TER_03_WO,Wales Office,^wales office$,TER,WO,.,.,.,.,.,.,.,.,.
+TER_04_SOWO,Scotland and Wales Offices,^scotland office.*wales office$,TER,.,SOWO,.,.,.,.,.,.,.,.
+CMS_01_DCMS,"Department for Digital, Culture, Media and Sport","^.*culture, media.*$",CMS,DCMS,DCMS,DCMS,DCMS,DCMS,DCMS,DCMS,DCMS,DCMS,DCMS
+CMS_02_TNA,The National Archives,^.*archives$,CMS,.,TNA,TNA,TNA,TNA,TNA,TNA,TNA,TNA,TNA
+CMS_03_TRP,The Royal Parks,^.*parks.*$,CMS,TRP,TRP,TRP,TRP,TRP,TRP,TRP,.,.,.
+COM_01_DPT,"Ministry of Housing, Communities and Local Government",^.*communities.*$,COM,DCLG,DCLG,DCLG,DCLG,DCLG,DCLG,DCLG,DCLG,DCLG,MHCLG
+COM_03_FSC,Fire Service College,^.*fire service.*$,COM,FSC,FSC,FSC,.,.,.,.,.,.,.
+COM_04_GON,Government Office Network,^government office.*$,COM,GON,GON,.,.,.,.,.,.,.,.
+COM_02_PINS,Planning Inspectorate,^.*planning.*$,COM,PINS,PINS,PINS,PINS,PINS,PINS,PINS,PINS,PINS,PINS
+CXD_01_DMO,UK Debt Management Office,^.*debt.*$,CXD,DMO,DMO,DMO,DMO,DMO,DMO,DMO,DMO,DMO,DMO
+CXD_02_GAD,Government Actuary's Department,^.*actuary's.*$,CXD,.,GAD,GAD,GAD,GAD,GAD,GAD,GAD,GAD,GAD
+CXD_03_NSI,National Savings and Investments,^.*saving.*$,CXD,NSANDI,NSANDI,NSANDI,NSANDI,NSANDI,NSANDI,NSANDI,NSANDI,NSANDI,NSANDI
+DEF_02_DECA,Defence Electronics and Components Agency,^.*electronics.*$,DEF,.,.,.,.,.,.,DECA,DECA,DECA,DECA
+DEF_03_DES,Defence Equipment & Support,^.*equipment.*$,DEF,.,.,.,.,.,DES,DES,DES,DES,DES
+DEF_04_DSG,Defence Support Group,^.*support group.*$,DEF,.,DSG,DSG,DSG,DSG,DSG,.,.,.,.
+DEF_05_DSTL,Dstl,^dstl$,DEF,.,DSTL,DSTL,DSTL,DSTL,DSTL,DSTL,DSTL,DSTL,DSTL
+DEF_01_MOD,Ministry of Defence,^min.*defence.*$,DEF,MOD,MOD,MOD,MOD,MOD,MOD,MOD,MOD,MOD,MOD
+DEF_06_SDA,Submarine Delivery Agency,^submarine.*$,DEF,.,.,.,.,.,.,.,.,.,SDA
+DEF_07_UKHO,UK Hydrographic Office,^.*hydrographic.*$,DEF,UKHO,UKHO,UKHO,UKHO,UKHO,UKHO,UKHO,UKHO,UKHO,UKHO
+DEV_01_DIFD,Department for International Development,^.*development.*$,DEV,DFID,DFID,DFID,DFID,DFID,DFID,DFID,DFID,DFID,DFID
+EDU_01_DFE,Department for Education,(^dep.*children.*$)|(^dep.*education.*$),EDU,DCSF,DFE,DFE,DFE,DFE,DFE,DFE,DFE,DFE,DFE
+ENV_02_APHA,Animal and Plant Health Agency,^animal.*plant.*$,ENV,.,.,.,.,.,APHA,APHA,APHA,APHA,APHA
+ENV_04_ANH,Animal Health,^animal health$,ENV,AH,AH,.,.,.,.,.,.,.,.
+ENV_03_ANVL,Animal Health and Veterinary Laboratories Agency,^animal health.*vet.*$,ENV,.,.,AHVLA,AHVLA,AHVLA,.,.,.,.,.
+ENV_05_CEF,"Centre for Environment, Fisheries and Aquaculture Science",^.*aquaculture.*$,ENV,CEFAS,CEFAS,CEFAS,CEFAS,CEFAS,CEFAS,CEFAS,CEFAS,CEFAS,CEFAS
+ENV_01_DPT,"Department for Environment, Food & Rural Affairs",^dep.*environment.*$,ENV,DEFRA,DEFRA,DEFRA,DEFRA,DEFRA,DEFRA,DEFRA,DEFRA,DEFRA,DEFRA
+ENV_06_FERA,Food and Environment Research Agency,^food.*environment.*$,ENV,FERA,FERA,FERA,FERA,FERA,FERA,.,.,.,.
+ENV_07_MFA,Maritime and Fisheries Agency,^maritime.*fisheries.*$,ENV,MFA,.,.,.,.,.,.,.,.,.
+ENV_08_RPA,Rural Payments Agency,^rural.*$,ENV,RPA,RPA,RPA,RPA,RPA,RPA,RPA,RPA,RPA,RPA
+ENV_09_VLA,Veterinary Laboratories Agency,^vet.*lab.*$,ENV,VLA,VLA,.,.,.,.,.,.,.,.
+ENV_10_VMD,Veterinary Medicines Directorate,^vet.*med.*$,ENV,VMD,VMD,VMD,VMD,VMD,VMD,VMD,VMD,VMD,VMD
+FCO_01_FCO,Foreign & Commonwealth Office,^foreign.*$,FCO,FCO,FCO,FCO,FCO,FCO,FCO,FCO,FCO,FCO,FCO
+FCO_02_SRV,FCO Services,^fco services$,FCO,FCOS,FCOS,FCOS,FCOS,FCOS,FCOS,FCOS,FCOS,FCOS,FCOS
+FCO_03_WPEA,Wilton Park,^wilton.*$,FCO,WPEA,WPEA,WPEA,WPEA,WPEA,WPEA,WPEA,WPEA,WPEA,WPEA
+FSA_01_FSA,Food Standards Agency,^food standards agency$,FSA,FSA,FSA,FSA,FSA,FSA,FSA,FSA,FSA,FSA,FSA
+FSA_02_MHS,Meat Hygiene Service,^meat.*$,FSA,MHS,.,.,.,.,.,.,.,.,.
+HEL_01_DPT,Department of Health and Social Care,^dep.*health.*$,HEL,DH,DH,DH,DH,DH,DH,DH,DH,DH,DHSC
+HEL_02_MHRA,Medicines and Healthcare Products Regulatory Agency,^med.*health.*$,HEL,MHRA,MHRA,MHRA,MHRA,MHRA,MHRA,MHRA,MHRA,MHRA,MHRA
+HEL_03_PHE,Public Health England,^public.*health.*$,HEL,.,.,.,.,PHE,PHE,PHE,PHE,PHE,PHE
+HMT_02_GIAA,Government Internal Audit Agency,^.*audit.*$,HMT,.,.,.,.,.,.,GIAA,GIAA,GIAA,GIAA
+HMT_01_HMT,HM Treasury,^hm treasury.*$,HMT,HMT,HMT,HMT,HMT,HMT,HMT,HMT,HMT,HMT,HMT
+HOM_03_BDFR,Home Office: Border Force,^.*border force.*$,HOM,.,.,.,BF,BF,BF,BF,BF,BF,BF
+HOM_04_CRB,Criminal Records Bureau,^criminal records.*$,HOM,CRB,CRB,CRB,CRB,.,.,.,.,.,.
+HOM_01_GRP,Home Office group,^home.*group$,HOM,.,.,.,.,.,.,HOGROUP,HOGROUP,HOGROUP,HOGROUP
+HOM_05_HMPO,HM Passport Office,^hm.*passport.*$,HOM,.,.,.,.,HMPO,HMPO,HMPO,HMPO,HMPO,HMPO
+HOM_06_IMEN,Home Office: Immigration Enforcement,^.*imm.*enf.*$,HOM,.,.,.,.,IE,IE,IE,IE,IE,IE
+HOM_07_IPS,Identity & Passport Service,^.*identity.*$,HOM,IPS,IPS,IPS,IPS,.,.,.,.,.,.
+HOM_09_NCA,National Crime Agency,^.*crime.*$,HOM,.,.,.,.,NCA,NCA,NCA,NCA,NCA,NCA
+HOM_02_POL,Home Office: Policy and Enablers,(^home office$)|(^home office.*hq.*$)|(^home.*excluding.*$)|(^home.*policy.*$),HOM,HO,HO,HO,HO,HO,PE,PE,PE,PE,PE
+HOM_10_UKBA,UK Border Agency,^.*border agency.*$,HOM,UKBA,UKBA,UKBA,UKBA,.,.,.,.,.,.
+HOM_11_UKVI,UK Visas and Immigration,^.*visas.*$,HOM,.,.,.,.,UKVI,UKVI,UKVI,UKVI,UKVI,UKVI
+IND_01CCOM,Charity Commission,^charity.*$,IND,.,CC,CC,CC,CC,CC,CC,CC,CC,CC
+IND_02_CPSI,HM Crown Prosecution Service Inspectorate,(^.*crown.*insp.*$)|(^.*cps.*insp.*$),IND,HMCPSI,HMCPSI,HMCPSI,HMCPSI,HMCPSI,HMCPSI,HMCPSI,HMCPSI,HMCPSI,HMCPSI
+IND_03_ESTN,Estyn,(^estyn$),IND,ESTYN,ESTYN,ESTYN,ESTYN,ESTYN,ESTYN,ESTYN,ESTYN,ESTYN,ESTYN
+IND_04_CFRS,HM Inspectorate of Constabulary and Fire & Rescue Services,(^.*const.*$),IND,.,.,.,.,.,HMIC,HMIC,HMIC,HMICFR,HMICFR
+IND_05_GEM,Ofgem,(^ofgem$),IND,.,.,OFGEM,OFGEM,OFGEM,OFGEM,OFGEM,OFGEM,OFGEM,OFGEM
+IND_06_ORR,Office of Rail and Road,(^off.*rail.*$),IND,ORR,ORR,ORR,ORR,ORR,ORR,ORR,ORR,ORR,ORR
+IND_07_QUAL,Ofqual,(^ofqual$),IND,.,.,OFQUAL,OFQUAL,.,.,.,OFQUAL,OFQUAL,OFQUAL
+IND_08_STED,Ofsted,(^ofsted$),IND,.,OFSTED,OFSTED,OFSTED,OFSTED,OFSTED,OFSTED,OFSTED,OFSTED,OFSTED
+JST_03_ALB,MoJ Arms Length and Other Bodies,(^.*arms.*$),JST,.,ALBS,ALBS,ALBS,ALBS,ALBS,ALBS,ALBS,ALBS,ALOB
+JST_04_CICA,Criminal Injuries Compensation Authority,(^crim.*comp.*$),JST,CICA,CICA,CICA,CICA,CICA,CICA,CICA,CICA,CICA,CICA
+JST_05_CRTB,HM Courts and Tribunals Service,(^hm.*courts.*trib.*$),JST,.,.,HMCTS,HMCTS,HMCTS,HMCTS,HMCTS,HMCTS,HMCTS,HMCTS
+JST_02_DPT,Ministry of Justice HQ,^min.*justice((?!including).)*$,JST,MOJHQ,MOJHQ,MOJHQ,MOJHQ,MOJHQ,MOJHQ,MOJHQ,MOJHQ,MOJHQ,MOJHQ
+JST_01_GRP,Ministry of Justice group,(^.*justice.*including.*$),JST,.,.,.,.,.,.,MOJGROUP,MOJGROUP,MOJGROUP,MOJGROUP
+JST_06_HMCS,HM Courts Service,(^hm courts service$),JST,HMCS,HMCS,.,.,.,.,.,.,.,.
+JST__07_LAA,Legal Aid Agency,(^legal.*$),JST,.,.,LSC,LSC,LAA,LAA,LAA,LAA,LAA,LAA
+JST_08_NPS,National Probation Service,(^national probation.*$),JST,.,.,.,.,.,NPS,NPS,NPS,NPS,NPS
+JST_09_OPG,Office of the Public Guardian,(^.*guardian.*$),JST,OPG,OPG,OPG,OPG,OPG,OPG,OPG,OPG,OPG,OPG
+JST_10_PPS,HM Prison and Probation Service HQ,(^nat.*off.*hq.*$)|(^.*prison.*prob.*$),JST,.,.,.,.,.,NOMS,NOMS,NOMSHQ,HMPPHQ,HMPPHQ
+JST_11_PRIS,HM Prison Service,(^nat.*off.*service$)|(^hm prison service$),JST,NOMS,NOMS,NOMS,NOMS,NOMS,HMPS,HMPS,HMPS,HMPS,HMPS
+JST_12_TRIB,Tribunals Service,^tribunal.*$,JST,TRIBS,TRIBS,.,.,.,.,.,.,.,.
+REV_01_HMRC,HM Revenue & Customs,^.*revenue.*customs$,REV,HMRC,HMRC,HMRC,HMRC,HMRC,HMRC,HMRC,HMRC,HMRC,HMRC
+REV_02_VOA,Valuation Office Agency,^valuation.*$,REV,VOA,VOA,VOA,VOA,VOA,VOA,VOA,VOA,VOA,VOA
+SCT_02_AIB,Accountant in Bankruptcy,^accountant.*$,SCT,AIB,AIB,AIB,AIB,AIB,AIB,AIB,AIB,AIB,AIB
+SCT_03_DIS,Disclosure Scotland,^disclosure scotland$,SCT,DS,DS,DS,DS,DS,DS,DS,DS,DS,DS
+SCT_04_EDU,Education Scotland,(^hm.*education$)|(^education.*$),SCT,HMIE,HMIE,ES,ES,ES,ES,ES,ES,ES,ES
+SCT_05_FSS,Food Standards Scotland,^food.*scotland$,SCT,.,.,.,.,.,.,.,FSS,FSS,FSS
+SCT_01_GOV,Scottish Government,(^scottish.*gov.*$),SCT,SG,SG,SG,SG,SG,SG,SG,SG,SG,SG
+SCT_06_GROS,General Register Office for Scotland,(^general.*scotland$),SCT,GROS,GROS,.,.,.,.,.,.,.,.
+SCT_07_HIST,Historic Scotland,(^historic.*$),SCT,HS,HS,HS,HS,HS,HS,.,.,.,.
+SCT_08_NAS,National Archives of Scotland,(^.*archives.*scotland$),SCT,NAS,NAS,.,.,.,.,.,.,.,.
+SCT_09_NRS,National Records of Scotland,(^.*records.*scotland$),SCT,.,.,NRS,NRS,NRS,NRS,NRS,NRS,NRS,NRS
+SCT_10_OSCR,Office of the Scottish Charity Regulator,(^.*scottish.*charity.*$),SCT,OSCR,OSCR,OSCR,OSCR,OSCR,OSCR,OSCR,OSCR,OSCR,OSCR
+SCT_11_PFS,Crown Office and Procurator Fiscal Service,(^crown office.*$),SCT,COPFS,COPFS,COPFS,COPFS,COPFS,COPFS,COPFS,COPFS,COPFS,COPFS
+SCT_12_PPA,Scottish Public Pensions Agency,(^scottish.*pension.*$),SCT,SPPA,SPPA,SPPA,SPPA,SPPA,SPPA,SPPA,SPPA,SPPA,SPPA
+SCT_13_REV,Revenue Scotland,(^revenue.*scotland$),SCT,.,.,.,.,.,.,RS,RS,RS,RS
+SCT_14_ROS,Registers of Scotland,(^registers.*scotland$),SCT,ROS,ROS,ROS,ROS,ROS,ROS,ROS,ROS,ROS,ROS
+SCT_15_SAAS,Student Awards Agency for Scotland,(^student.*scotland$),SCT,SAAS,SAAS,SAAS,SAAS,SAAS,SAAS,SAAS,SAAS,SAAS,SAAS
+SCT_16_SCS,Scottish Court Service,(^scottish.*court((?!tribunal).)*$),SCT,.,SCS,SCS,SCS,SCS,SCS,.,.,.,.
+SCT_17_SCTS,Scottish Courts and Tribunals Service,(^scottish.*court.*trib.*$),SCT,.,.,.,.,.,.,SCTS,SCTS,SCTS,SCTS
+SCT_18_SHR,Scottish Housing Regulator,(^scottish.*housing.*$),SCT,SHR,SHR,SHR,SHR,SHR,SHR,SHR,.,SHR,SHR
+SCT_19_SPS,Scottish Prison Service,(^scottish.*prison.*$),SCT,.,SPS,SPS,SPS,SPS,SPS,SPS,SPS,SPS,SPS
+SCT_20_STS,Scottish Tribunals Service,(^scottish((?!courts).)*trib.*$),SCT,.,.,.,STS,STS,STS,.,.,.,.
+SCT_21_SWIA,Social Work Inspection Agency,(^social.*work.*$),SCT,SWIA,SWIA,.,.,.,.,.,.,.,.
+SCT_22_TRNS,Transport Scotland,(^transport.*scot.*$),SCT,TS,TS,TS,TS,TS,TS,TS,TS,TS,TS
+STA_01_GRP,UK Statistics Authority (including ONS),(^.*statistics.*nat.*$)|(^.*statistics.*ons.*$),STA,ONS,ONS,.,.,.,.,UKSAGROUP,UKSAGROUP,UKSAGROUP,UKSAGROUP
+STA_02_ONS,Office for National Statistics,(^office.*statistics$),STA,.,.,ONS,ONS,ONS,ONS,.,ONS,ONS,ONS
+STA_03_UKSA,UK Statistics Authority,(^.*statistics.*authority$),STA,.,.,UKSA,UKSA,UKSA,UKSA,.,UKSA,UKSA,UKSA
+TRD_01_DPT,Department for International Trade,(^dep.*trade$),TRD,.,.,.,.,.,.,.,DIT,DIT,DIT
+TRD_02_UKEF,UK Export Finance,(^.*export.*$),TRD,ECGD,ECGD,ECGD,UKEF,UKEF,UKEF,UKEF,UKEF,UKEF,UKEF
+TRD_03_UKTI,UK Trade and Investment,(^uk.*trade.*$),TRD,.,.,.,.,UKTI,UKTI,UKTI,.,.,.
+TRN_01_DPT,Department for Transport,(^dep.*transport.*$),TRN,DFT,DFT,DFT,DFT,DFT,DFT,DFT,DFT,DFT,DFT
+TRN_02_DSA,Driving Standards Agency,(^driving.*$),TRN,DSA,DSA,DSA,DSA,DSA,.,.,.,.,.
+TRN_03_DVLA,Driver and Vehicle Licensing Agency,(^driver.*licensing.*$),TRN,DVLA,DVLA,DVLA,DVLA,DVLA,DVLA,DVLA,DVLA,DVLA,DVLA
+TRN_04_DVSA,Driver and Vehicle Standards Agency,(^driver.*standards.*$),TRN,.,.,.,.,.,DVSA,DVSA,DVSA,DVSA,DVSA
+TRN_05_GCDA,Government Car and Despatch Agency,(^gov.*car.*$),TRN,GCDA,GCDA,GCDA,.,.,.,.,.,.,.
+TRN_06_HA,Highways Agency,(^highways.*$),TRN,HA,HA,HA,HA,HA,HA,.,.,.,.
+TRN_07_MCA,Maritime and Coastguard Agency,(^maritime.*coast.*$),TRN,MCA,MCA,MCA,MCA,MCA,MCA,MCA,MCA,MCA,MCA
+TRN_08_VCA,Vehicle Certification Agency,(^vehicle cert.*$),TRN,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA
+TRN_09_VOSA,Vehicle Operator Services Agency,(^vehicle op.*$),TRN,VOSA,VOSA,VOSA,VOSA,VOSA,.,.,.,.,.
+WAL_01_GVT,Welsh Government,(^welsh.*gov.*$),WAL,WAG,WAG,WG,WG,WG,WG,.,.,WG,WG
+WAL_02_REV,Welsh Revenue Authority,(^welsh.*rev.*$),WAL,.,.,.,.,.,.,.,.,.,WRA
+WRK_04_CMCE,CMEC: Commission Executive,(^.*commission.*executive.*$),WRK,CE,CE,.,.,.,.,.,.,.,.
+WRK_05_CMCS,CMEC: Corporate Services,(^.*corporate.*services.*$),WRK,CS,CS,.,.,.,.,.,.,.,.
+WRK_03_CMG,Child Maintenance Group,(^child.*support.*$)|(^child.*commission$)|(child.*group$),WRK,CSA,CSA,CMEC,CMG,.,.,.,.,.,.
+WRK_01_DPT,Department for Work and Pensions,(^dep.*work.*$),WRK,DWP,DWP,DWP,DWP,DWP,DWP,DWP,DWP,DWP,DWP
+WRK_02_HSE,Health and Safety Executive,(^health.*safety.*$),WRK,HSE,HSE,HSE,HSE,HSE,HSE,HSE,HSE,HSE,HSE
